@@ -2,9 +2,9 @@
 
 [Shihao Zhou](https://joshyzhou.github.io/), [Jinshan Pan](https://jspan.github.io/) and [Jufeng Yang](https://cv.nankai.edu.cn/)
 
-<!-- #### News
+#### News
 - **Jul 02, 2025:** ASTv2 has been accepted to TPAMI 2025 :tada: 
-<hr /> -->
+<hr />
 
 
 ## Training
@@ -119,7 +119,7 @@ Here is a summary table containing hyperlinks for easy navigation:
 </table>
 
 
-<!-- ## Citation
+## Citation
 If you find this project useful, please consider citing:
 
     @inproceedings{zhou_TPAMI25_astv2,
@@ -127,7 +127,7 @@ If you find this project useful, please consider citing:
       author={Zhou, Shihao and Pan, Jinshan and Yang, Jufeng},
       booktitle={TPAMI},
       year={2025}
-    } -->
+    }
 
 ## Acknowledgement
 
