@@ -1,9 +1,15 @@
 # Learning An Adaptive Sparse Transformer for Efficient Image Restoration (TPAMI 2025)
 
+[![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demos-blue)](https://huggingface.co/spaces/yssszzzzzzzzy/AStv2)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshyZhou/ASTv2)
+[![GitHub Stars](https://img.shields.io/github/stars/joshyZhou/ASTv2?style=social)](https://github.com/joshyZhou/ASTv2) <br>
+
 [Shihao Zhou](https://joshyzhou.github.io/), [Jinshan Pan](https://jspan.github.io/) and [Jufeng Yang](https://cv.nankai.edu.cn/)
 
 #### News
-- **Jul 02, 2025:** ASTv2 has been accepted to TPAMI 2025 :tada: 
+
+- **Aug 03, 2025:** [Hugging Face Demo](https://huggingface.co/spaces/yssszzzzzzzzy/AStv2) is available now, thanks contribution of [Sen](https://github.com/yss730)
+- **Aug 03, 2025:** ASTv2 has been accepted to TPAMI 2025 :tada: 
 <hr />
 
 
@@ -123,7 +129,7 @@ Here is a summary table containing hyperlinks for easy navigation:
 If you find this project useful, please consider citing:
 
     @inproceedings{zhou_TPAMI25_astv2,
-      title={Learning An Adaptive Sparse Transformer for Efficient Image Restoration (TPAMI 2025)},
+      title={Learning An Adaptive Sparse Transformer for Efficient Image Restoration},
       author={Zhou, Shihao and Pan, Jinshan and Yang, Jufeng},
       booktitle={TPAMI},
       year={2025}
